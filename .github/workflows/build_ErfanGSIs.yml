@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/V12.0.5.0.QFXCNXM/miui_CRUX_V12.0.5.0.QFXCNXM_63357f4009_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: http://download.h2os.com/OnePlus7T Pro/MP/OnePlus7TProHydrogen_14.H.07_OTA_007_all_1910240143_a943608d7fc84578.zip
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:
